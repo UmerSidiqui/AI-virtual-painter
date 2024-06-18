@@ -34,4 +34,13 @@ Dynamic Interaction: The webcam's real-time video feed is displayed to the user,
 
 Usage
 
+Prerequisites
+Hardware Requirements:
+
+Ensure you have a computer with a webcam. The project utilizes the webcam to track hand movements for drawing.
+Make sure your computer meets the specifications necessary to run Python applications with OpenCV and Mediapipe.
+
+Software Requirements:
+pip install opencv-python mediapipe pygame
+
 To start painting with the AI Virtual Painter, simply run the application and position your hand in front of the webcam. Move your index finger to draw, use gestures to change colors or switch to the eraser, and watch your creations come to life on the screen.
